@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @gebhaard
 - 👀 I’m interested in Data Science and Python
-- 🌱 I’m currently learning Physics Masters with Scientific Data Analytics and Modeling specialization
+- 💼 I'm currently working as a Machine Learning Engineer at Deutsche Telekom IT
+- 🌱 I’m currently studying Physics MSc specializing in Scientific Data Analysis and Modeling
 
 <!---
 gebhaard/gebhaard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
